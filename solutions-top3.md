@@ -2,11 +2,13 @@
 
 ## Introduction
 
-Voici notre top 3 des solutions OpenSource basé sur :
+Voici notre top 3 des solutions Open Source basées sur :
 
 * Notre expérience d'intégration
 * La communauté
 * Le niveau fonctionnel de la solution
+
+*Certaines solutions ne sont pas open mais s'y approche.*
 
 ## Liens favoris
 
@@ -14,33 +16,161 @@ Voici notre top 3 des solutions OpenSource basé sur :
 
 ## Partage de fichiers
 
-1. [Nextcloud]()
-2. [https://sync-in.com/fr/]()
-3. [Samba]()
+1. [Nextcloud](https://nextcloud.com/fr/)
+2. [sync-in](https://sync-in.com/fr/)
+3. [Samba](samba.org)
 
 ## NAS
 
-1. [TrueNAS]()
-2. [Synology]()
+1. [TrueNAS](https://www.truenas.com/)
+2. [Synology](https://www.synology.com/fr-fr) *non open - composants open source*
+3. [OpenMediaVault](https://www.openmediavault.org/)
+
+## Edition collaborative
+
+1. [Collabora online](https://www.collaboraonline.com/)
+2. [OnlyOffice](https://www.onlyoffice.com/)
+3. [https://cryptpad.org/](https://cryptpad.org/)
+
+## Pad collaboratif
+
+1. [HedgeDoc](https://hedgedoc.org/)
+2. [EtherPad](https://etherpad.org/)
+3. [Codimd](https://github.com/hackmdio/codimd)
+
+## Visio
+
+1. [Jitsi](https://jitsi.org/jitsi-meet/)
+2. [BigBlueButton](https://bigbluebutton.org/)
+3. [OpenMeetings](https://openmeetings.apache.org/)
+
+## Wiki
+
+1. [Bookstack](https://www.bookstackapp.com/)
+2. [WikiJS](https://js.wiki/)
+3. [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) *moteur de wikipedia*
+
+
+## Suite bureautique (desktop)
+
+1. [LibreOffice](https://fr.libreoffice.org/download/telecharger-libreoffice/)
+2. [Calligra](https://calligra.org/)
+
+
+## Gestionnaire de mots de passe
+
+1. [KeepassXC](https://keepassxc.org/)
+2. [Passbolt](https://www.passbolt.com/)
+3. [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
+
+## ERP
+
+1. [Dolibarr](https://www.dolibarr.org/)
+2. [ERPNext](https://frappe.io/erpnext)
+3. [Odoo](https://www.odoo.com/fr_FR)
+
+## CRM
+
+1. [SuiteCRM](https://suitecrm.com/)
+2. [EspoCRM](https://www.espocrm.com/) *fork de vtiger*
+3. [Twenty](https://twenty.com/)
+
+
+## CMS
+
+1. [Wordpress](https://wordpress.com/fr/)
+2. [Drupal](https://new.drupal.org/home)
+3. [Strapi](https://strapi.io/)
+
 
 ## Firewall
 
-- [IPtables]()
-- [Shorewall]()
-- [PFsense]()
+1. [IPtables](https://wiki.archlinux.org/title/Iptables)
+2. [Shorewall](https://shorewall.org/)
+3. [PFsense](https://www.pfsense.org/)
 
-## Virtualisation
+## Virtualisation (type 1)
 
-1. [Proxmox]()
-2. [LXC]()
-3. 
+1. [Proxmox](https://proxmox.com/en/)
+2. [KVM](https://linux-kvm.org/page/Main_Page)
+3. [oVirt](https://www.ovirt.org/)
+
+## Virtualisation (type 2)
+
+1. [Virtualbox](https://www.virtualbox.org/)
+2. [GNS3](https://www.gns3.com/)
+3. [QEMU](https://www.qemu.org/)
+
+## Conteneurisation
+
+1. [LXC](https://linuxcontainers.org/)
+2. [Docker](https://www.docker.com/)
+3. [Podman](https://podman.io/)
 
 ## Chat
 
-1. [Matrix]()
-  * [Element]()
+1. [Matrix](https://matrix.org/)
+  * [Element](https://element.io/)
+2. [Mattermost](https://mattermost.com/)
+3. [Zulip](https://zulip.com/)
 
 ## IA
 
-1. [OpenWebUI]()
-2. 
+1. [Ollama](https://ollama.com/)
+  * [OpenWebUI](https://www.openwebui.com/)
+2. [LibreChat](https://www.librechat.ai/)
+
+## Backup
+
+1. [BorgBackup](https://www.borgbackup.org/)
+2. [Bareos](https://www.bareos.com/frfr/)
+3. [Duplicati](https://duplicati.com/)
+
+## DVCS
+
+1. [Git](https://git-scm.com/)
+2. [Gitlab](https://about.gitlab.com/)
+3. [Gitea](https://about.gitea.com/)
+
+## Gestion de projet
+
+1. [OpenProject](https://www.openproject.org/fr/)
+2. [Redmine](https://www.redmine.org/)
+3. [Taiga](https://taiga.io/)
+
+## Kanban
+
+1. [Wekan](https://wekan.fi/)
+2. [Kanboard](https://kanboard.org/)
+3. [Planka](https://planka.app/)
+
+## Pastebin
+
+1. [privatebin]()
+2. [opengist]()
+
+## E-mail (serveur)
+
+1. [Postfix]()
+  * [Roundcube]()
+2. [Mailcow]()
+3. [Modoboa]()
+
+## E-mail (client)
+
+1. [Thunderbird](https://www.thunderbird.net/fr/)
+
+## Supervision
+
+1. [Zabbix]()
+2. [Icinga2]()
+3. [Canopsis]()
+
+## CMDB
+
+1. [GLPI]()
+2. [iTop]()
+
+## QRCode
+
+1. [MiniQR](https://mini-qr-code-generator.vercel.app/)
