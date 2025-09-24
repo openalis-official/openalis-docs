@@ -1,4 +1,4 @@
-# SOLUTIONS OPEN TOP 3
+# SOLUTIONS OPEN SOURCE TOP 3 OPENALIS
 
 ## Introduction
 
@@ -114,11 +114,17 @@ Voici notre top 3 des solutions Open Source basées sur :
 2. [Mattermost](https://mattermost.com/)
 3. [Zulip](https://zulip.com/)
 
-## IA
+## IA (moteur)
 
 1. [Ollama](https://ollama.com/)
   * [OpenWebUI](https://www.openwebui.com/)
 2. [LibreChat](https://www.librechat.ai/)
+
+## IA (modèles LLM)
+
+1. [LLaMa](https://www.llama.com/)
+2. [Falcon](https://falcons.ai/)
+3. [Mistral](https://mistral.ai/)
 
 ## Backup
 
@@ -146,20 +152,30 @@ Voici notre top 3 des solutions Open Source basées sur :
 
 ## Pastebin
 
-1. [privatebin]()
-2. [opengist]()
+1. [opengist](https://opengist.io/)
+2. [privatebin](https://privatebin.info/)
 
-## E-mail (serveur)
+## E-mail (serveur manuel)
 
-1. [Postfix]()
-  * [Roundcube]()
-2. [Mailcow]()
-3. [Modoboa]()
+1. [Postfix](https://www.postfix.org/)
+  * [postfixadmin](https://github.com/postfixadmin/postfixadmin)
+  * [Dovecot](https://dovecot.org/)
+  * [Spamassassin](https://spamassassin.apache.org/)
+  * [Radicale](https://radicale.org/v3.html)
+  * [Roundcube](https://roundcube.net/)
+2. [Sogo](https://www.sogo.nu/)
+
+## E-mail (serveur tout-en-un)
+
+1. [iRedMail](https://www.iredmail.org/)
+2. [Modoboa](https://modoboa.org/fr/)
+3. [Mailcow](https://mailcow.email/)
 
 ## E-mail suite
 
-1. [Bluemind]()
-2. [Zimbra]()
+1. [Bluemind](https://www.bluemind.net/)
+2. [Zimbra](https://www.zimbra.com/)
+3. [EGroupware](https://www.egroupware.org/en)
 
 ## E-mail (client)
 
@@ -167,21 +183,37 @@ Voici notre top 3 des solutions Open Source basées sur :
 
 ## Provisioning
 
-1. [Ansible]()
-2. [Saltstack]()
-3. [WAPT]() *non open mais philosophie proche de l'open*
+1. [Ansible](https://docs.ansible.com/)
+2. [Saltstack](https://saltproject.io/)
+3. [WAPT](https://www.tranquil.it/wapt-enterprise/) *non open mais philosophie proche de l'open*
 
 ## Supervision
 
-1. [Zabbix]()
-2. [Icinga2]()
-3. [Canopsis]()
+1. [Zabbix](https://www.zabbix.com/fr)
+2. [Icinga2](https://icinga.com/)
+3. [Canopsis](https://www.canopsis.fr/)
 
-## CMDB
+## CMDB / Gestion de parc
 
-1. [GLPI]()
-2. [iTop]()
+1. [GLPI](https://glpi-project.org/fr/)
+2. [iTop](https://combodo.com/)
+3. [Ralph](https://ralph-ng.readthedocs.io/en/stable/)
 
 ## QRCode
 
 1. [MiniQR](https://mini-qr-code-generator.vercel.app/)
+
+## Partage de secret
+
+1. [Yopass](https://github.com/jhaals/yopass)
+2. [One Time Secret](https://onetimesecret.com/)
+
+## Dashboard
+
+1. [Grafana](https://grafana.com/)
+2. [Homarr](https://homarr.dev/)
+
+## VPN
+
+1. [Wioreguard](https://www.wireguard.com/)
+2. [OpenVPN](https://openvpn.net/)
