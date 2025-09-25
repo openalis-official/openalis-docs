@@ -11,6 +11,9 @@ Voici notre top 3 des solutions Open Source basées sur :
 ## Liens favoris
 
 - https://awesome-selfhosted.net/
+- https://www.opensourcealternative.to
+- https://www.logiciel-libre.org
+- https://www.francenum.gouv.fr
 
 ## Partage de fichiers
 
