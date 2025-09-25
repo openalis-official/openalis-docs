@@ -217,5 +217,5 @@ Voici notre top 3 des solutions Open Source basées sur :
 
 ## VPN
 
-1. [Wioreguard](https://www.wireguard.com/)
+1. [Wireguard](https://www.wireguard.com/)
 2. [OpenVPN](https://openvpn.net/)
