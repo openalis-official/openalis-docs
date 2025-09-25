@@ -8,8 +8,6 @@ Voici notre top 3 des solutions Open Source basées sur :
 * La communauté
 * Le niveau fonctionnel de la solution
 
-*Certaines solutions ne sont pas open mais s'y approche.*
-
 ## Liens favoris
 
 - https://awesome-selfhosted.net/
@@ -20,11 +18,6 @@ Voici notre top 3 des solutions Open Source basées sur :
 2. [sync-in](https://sync-in.com/fr/)
 3. [Samba](samba.org)
 
-## NAS
-
-1. [TrueNAS](https://www.truenas.com/)
-2. [Synology](https://www.synology.com/fr-fr) *non open - composants open source*
-3. [OpenMediaVault](https://www.openmediavault.org/)
 
 ## Edition collaborative
 
@@ -154,6 +147,12 @@ Voici notre top 3 des solutions Open Source basées sur :
 
 1. [opengist](https://opengist.io/)
 2. [privatebin](https://privatebin.info/)
+
+## NAS
+
+1. [TrueNAS](https://www.truenas.com/)
+2. [Synology](https://www.synology.com/fr-fr) *non open - composants open source*
+3. [OpenMediaVault](https://www.openmediavault.org/)
 
 ## E-mail (serveur manuel)
 
