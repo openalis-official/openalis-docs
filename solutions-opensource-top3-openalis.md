@@ -14,6 +14,7 @@ Voici notre top 3 des solutions Open Source basées sur :
 - https://www.opensourcealternative.to
 - https://www.logiciel-libre.org
 - https://www.francenum.gouv.fr
+- https://distrosea.com/fr/
 
 ## Partage de fichiers
 
