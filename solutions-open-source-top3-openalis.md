@@ -22,12 +22,11 @@ Voici notre top 3 des solutions Open Source basées sur :
 2. [sync-in](https://sync-in.com/fr/)
 3. [Samba](samba.org)
 
-
 ## Edition collaborative
 
 1. [Collabora online](https://www.collaboraonline.com/)
 2. [OnlyOffice](https://www.onlyoffice.com/)
-3. [https://cryptpad.org/](https://cryptpad.org/)
+3. [Cryptpad](https://cryptpad.org/)
 
 ## Pad collaboratif
 
@@ -47,12 +46,10 @@ Voici notre top 3 des solutions Open Source basées sur :
 2. [WikiJS](https://js.wiki/)
 3. [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) *moteur de wikipedia*
 
-
 ## Suite bureautique (desktop)
 
 1. [LibreOffice](https://fr.libreoffice.org/download/telecharger-libreoffice/)
 2. [Calligra](https://calligra.org/)
-
 
 ## Gestionnaire de mots de passe
 
@@ -60,7 +57,7 @@ Voici notre top 3 des solutions Open Source basées sur :
 2. [Passbolt](https://www.passbolt.com/)
 3. [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
-## ERP
+## ERP / SIRH
 
 1. [Dolibarr](https://www.dolibarr.org/)
 2. [ERPNext](https://frappe.io/erpnext)
@@ -72,13 +69,11 @@ Voici notre top 3 des solutions Open Source basées sur :
 2. [EspoCRM](https://www.espocrm.com/) *fork de vtiger*
 3. [Twenty](https://twenty.com/)
 
-
 ## CMS
 
 1. [Wordpress](https://wordpress.com/fr/)
 2. [Drupal](https://new.drupal.org/home)
 3. [Strapi](https://strapi.io/)
-
 
 ## Firewall
 
@@ -183,10 +178,13 @@ Voici notre top 3 des solutions Open Source basées sur :
 ## E-mail (client)
 
 1. [Thunderbird](https://www.thunderbird.net/fr/)
+2. [Evolution](https://help.gnome.org/users/evolution/stable/index.html.fr)
+3. [KMail](https://apps.kde.org/fr/kmail2/)
 
 ## Provisioning
 
 1. [Ansible](https://docs.ansible.com/)
+  * [Semaphoreui](https://semaphoreui.com/)
 2. [Saltstack](https://saltproject.io/)
 3. [WAPT](https://www.tranquil.it/wapt-enterprise/) *non open mais philosophie proche de l'open*
 
@@ -215,8 +213,99 @@ Voici notre top 3 des solutions Open Source basées sur :
 
 1. [Grafana](https://grafana.com/)
 2. [Homarr](https://homarr.dev/)
+3. [Dashy](https://dashy.to/)
 
 ## VPN
 
 1. [Wireguard](https://www.wireguard.com/)
 2. [OpenVPN](https://openvpn.net/)
+
+## Facturation
+
+1. [InvoiceNinja](https://invoiceninja.com/)
+2. [InvoicePlane](https://invoiceplane.com/)
+3. [Crater](https://docs.craterapp.com/)
+
+## Analytics
+
+1. [Matomo](https://fr.matomo.org/)
+
+## Sondage
+
+1. [LimeSurvey](https://www.limesurvey.org/fr)
+2. [FormBricks](https://formbricks.com/)
+
+## Campagnes phishing
+
+1. [GoPhish](https://getgophish.com/)
+
+## Collecte métriques
+
+1. [Prometheus](https://prometheus.io/)
+  * [AlertManger](https://prometheus.io/docs/alerting/latest/alertmanager/)
+2. [Netdata](https://www.netdata.cloud/open-source/)
+3. [SigNoz](https://signoz.io/)
+
+## Bases de données SQL
+
+1. [MariaDB](https://mariadb.com/)
+2. [Postgre](https://www.postgresql.org/)
+3. [DuckDB](https://duckdb.org/)
+
+## Bases de données noSQL
+
+1. [MongoDB](https://www.mongodb.com/) *Licence SSPL*
+2. [Cassandra](https://cassandra.apache.org/_/index.html)
+3. [Redis](https://redis.io/open-source/)
+
+## Audio/visuel
+
+1. [Gimp](https://www.gimp.org/)
+2. [OpenShot](https://www.openshot.org/fr/)
+3. [Audacity](https://audacity.fr/)
+4. [Blender](https://www.blender.org/)
+
+## Navigateur Client
+
+1. [Firefox](https://www.firefox.com/fr/)
+2. [Brave](https://brave.com/fr/)
+3. [Chromium](https://www.chromium.org/chromium-projects/)
+
+## Moteurs de recherche (serveur)
+
+1. [SearXNG](https://docs.searxng.org/)
+2. [Gigablast](https://gigablast.org/)
+3. [YaCy](https://yacy.net/)
+
+## Network Mapping
+
+1. [Nmap](https://nmap.org/)
+  * [Zenmap](https://nmap.org/zenmap/)
+2. [OpenNMS](https://www.opennms.com/)
+3. [Netdisco](https://netdisco.org/)
+
+## Puit de logs
+
+1. [ELK](https://www.elastic.co/fr/elastic-stack)
+2. [Graylog](https://graylog.org/)
+3. [Loki + Grafana](https://grafana.com/oss/loki/)
+
+## Géolocalisation
+
+1. [OpenStreetMap](https://www.openstreetmap.org/)
+2. [Leaflet](https://leafletjs.com/)
+3. [MapLibre](https://maplibre.org/)
+
+## Ordonnanceur
+
+1. [Rundeck](https://www.rundeck.com/)
+2. [Airflow](https://airflow.apache.org/)
+3. [Luigi](https://luigi.readthedocs.io/en/stable/#)
+
+## Orchestrateur conteneurs
+
+1. [Kubernetes](https://kubernetes.io/)
+2. [Docker swarm](https://docs.docker.com/engine/swarm/)
+3. [Nomad](https://developer.hashicorp.com/nomad)
+
+## Vers l'infini et au-delà !
