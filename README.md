@@ -14,4 +14,4 @@ OPENALIS
 
 L'ensemble des documents de ce dépôt sont publiés sous "GNU Free Documentation License".
 
-Voir [LICENCE](LICENCE).
+Voir [LICENCE](LICENSE).
