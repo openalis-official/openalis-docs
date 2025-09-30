@@ -1,5 +1,7 @@
 # SOLUTIONS OPEN SOURCE TOP 3 OPENALIS
 
+![top3](https://openalis.fr/wp-content/uploads/2025/09/gitb-top3-768x767.png)
+
 ## Introduction
 
 Voici notre top 3 des solutions Open Source basées sur :
