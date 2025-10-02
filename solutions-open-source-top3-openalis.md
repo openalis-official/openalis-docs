@@ -59,6 +59,29 @@ Voici notre top 3 des solutions Open Source basées sur :
 2. [Passbolt](https://www.passbolt.com/)
 3. [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
+## Sondage date/événement
+
+1. [Rally](https://rallly.co/)
+2. [Framadate](https://framacloud.org/en/cultivate-your-garden/framadate.html)
+3. [Dudle](https://github.com/kellerben/dudle)
+
+## Réservation de planning
+
+1. [Calc.com](https://cal.com/docs/self-hosting/installation)
+2. [LibreBooking](https://github.com/LibreBooking/app)
+3. [Easy!Appointments](https://easyappointments.org/)
+
+## Réservation de salle
+
+1. [Seatsurfing](https://seatsurfing.io/)
+2. [Classroombooking](https://www.classroombookings.com/)
+3. [BookedScheduler](https://www.bookedscheduler.com/)
+
+## Schéma/whiteboard
+
+1. [drawio](https://www.drawio.com/)
+2. [Excalidraw](https://excalidraw.com/)
+
 ## ERP / SIRH
 
 1. [Dolibarr](https://www.dolibarr.org/)
@@ -244,7 +267,7 @@ Voici notre top 3 des solutions Open Source basées sur :
 ## Collecte métriques
 
 1. [Prometheus](https://prometheus.io/)
-  * [AlertManger](https://prometheus.io/docs/alerting/latest/alertmanager/)
+  * [AlertManager](https://prometheus.io/docs/alerting/latest/alertmanager/)
 2. [Netdata](https://www.netdata.cloud/open-source/)
 3. [SigNoz](https://signoz.io/)
 
@@ -310,4 +333,12 @@ Voici notre top 3 des solutions Open Source basées sur :
 2. [Docker swarm](https://docs.docker.com/engine/swarm/)
 3. [Nomad](https://developer.hashicorp.com/nomad)
 
+## Réseau social
+
+1. [Diaspora](https://diasporafoundation.org/)
+2. [Open Source Social Network](https://www.opensource-socialnetwork.org/)
+3. [Elgg](https://elgg.org/)
+
 ## Vers l'infini et au-delà !
+
+Et plein d'autres à définir.
