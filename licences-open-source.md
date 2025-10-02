@@ -1,5 +1,7 @@
 # Les Licences Open Source
 
+![logo OSI](https://i0.wp.com/opensource.org/wp-content/uploads/2023/03/cropped-OSI-horizontal-large.png?fit=640%2C229&ssl=1)
+
 ## Liens
 
 - [Licences](https://choosealicense.com/licenses/)
@@ -8,6 +10,7 @@
 - [FSF france](https://www.fsffrance.org/)
 - [Licences libres](https://fr.wikipedia.org/wiki/Licence_libre)
 - [Open Source](https://fr.wikipedia.org/wiki/Open_source)
+- [Fair code](https://faircode.io/)
 
 ## Les organisations
 
@@ -61,31 +64,71 @@ Les licences Libres sont Open Source en revanche quelques exceptions peuvent êt
 
 Exemple de licence Open mais non Libre : NOSA, APSL, RPL, RSPL, SOWPL...
 
+
+## Le Fair code
+
+C'est un mouvement récent qui se positionne entre l'open source et le propriétaire.
+
+Principe : le code est ouvert (lisible, modifiable), mais son usage commercial est restreint.
+
+Gratuit et libre pour un usage personnel, éducatif ou non-commercial.
+
+Mais si une entreprise veut l’utiliser pour en tirer profit, elle doit payer une licence ou souscrire à un contrat commercial.
+
+C’est donc une licence hybride : ouverture du code + modèle économique durable pour les créateurs.
+
+Exemples de projets fair-code :
+
+Fair-Code License (FCL-1.0.0) : "usage non commercial libre, usage commercial sous conditions".
+
+Graylog, Sentry (avant migration), ou certains projets GitHub qui utilisent des licences dites “source available” avec restriction commerciale.
+
+C’est une sorte de compromis pour lutter contre l’exploitation gratuite de l’open source par les géants du cloud tout en gardant une communauté ouverte
+
+## Comparatif des types de licences : Libre / Open Source / Fair-code
+
+| Critère                  | **Logiciel Libre** 🐧 (FSF) | **Open Source** 🔓 (OSI) | **Fair-code** ⚖️ (Source available) |
+|---------------------------|-----------------------------|---------------------------|-------------------------------------|
+| **Philosophie**          | Défend la **liberté des utilisateurs** (les 4 libertés : utiliser, étudier, modifier, partager). | Vise la **qualité, la collaboration et l’adoption** par les entreprises, sans charge idéologique forte. | Vise la **justice pour les créateurs** : code ouvert mais usage commercial restreint. |
+| **Usage commercial**     | Oui, totalement libre.      | Oui, totalement libre.    | Non libre : usage commercial **soumis à conditions** (contrat, licence payante). |
+| **Accès au code**        | Oui, obligatoire.           | Oui, obligatoire.         | Oui, obligatoire, mais redistribution limitée. |
+| **Redistribution**       | Oui, parfois avec obligation de copyleft (GPL). | Oui, sans restriction.    | Possible mais **restreinte** (pas pour SaaS ou services commerciaux sans accord). |
+| **Exemples de licences** | GPL, AGPL, LGPL, MPL.       | MIT, Apache 2.0, BSD, EPL.| FCL (Fair-Code License), BSL (Business Source License), SSPL (MongoDB), Elastic License 2.0, Redis Source Available License. |
+| **Exemples de projets**  | Linux, WordPress, LibreOffice, GIMP. | Kubernetes, React, PostgreSQL, Eclipse. | MongoDB (SSPL), ElasticSearch (Elastic License 2.0), Redis modules (RSAL), Sentry (BSL), Graylog. |
+| **Forces**               | Garantit les libertés fondamentales. | Favorise l’innovation et l’adoption massive. | Protège les créateurs face aux géants du cloud. |
+| **Limites**              | Perçu comme trop radical pour certains usages commerciaux. | Permet la captation par les Big Tech sans retour aux auteurs. | Pas reconnu comme open source par l’OSI → souvent critiqué comme “faux libre”. |
+
+
 ## Les licences
 
-# Tableau des licences libres et open source
+### Tableau résumé de comparaison de licences
 
-| Domaine            | Licence                           | Libre (FSF) | Open Source (OSI) | Remarques principales |
-|--------------------|-----------------------------------|-------------|-------------------|-----------------------|
-| **Code logiciel**  | GPLv3 (GNU General Public License)| ✅ Oui       | ✅ Oui            | Copyleft fort, oblige à redistribuer sous GPL. |
-|                    | LGPL (Lesser GPL)                 | ✅ Oui       | ✅ Oui            | Copyleft faible, tolère l’usage dans du code proprio. |
-|                    | AGPL (Affero GPL)                 | ✅ Oui       | ✅ Oui            | Copyleft adapté aux logiciels SaaS. |
-|                    | MIT                               | ✅ Oui       | ✅ Oui            | Très permissive, très populaire. |
-|                    | Apache 2.0                        | ✅ Oui       | ✅ Oui            | Permissive, protège contre brevets. |
-|                    | BSD (2-clause, 3-clause)          | ✅ Oui       | ✅ Oui            | Permissives, proches du MIT. |
-|                    | Mozilla Public License (MPL 2.0)  | ✅ Oui       | ✅ Oui            | Copyleft faible, très utilisé (Firefox). |
-|                    | NOSA 1.3 (NASA)                   | ❌ Non       | ✅ Oui            | Trop de restrictions (pas libre pour la FSF). |
-|                    | Sybase Open Watcom                | ❌ Non       | ✅ Oui            | Oblige à publier les modifs même en interne. |
-| **Documentation**  | GNU FDL (Free Documentation Lic.) | ✅ Oui       | ✅ Oui            | Utilisé pour Wikipédia avant migration en CC BY-SA. |
-|                    | CC BY                             | ✅ Oui       | ✅ Oui            | Attribution obligatoire, permissive. |
-|                    | CC BY-SA                          | ✅ Oui       | ✅ Oui            | Partage dans les mêmes conditions, proche d’un copyleft. |
-|                    | CC0                               | ✅ Oui       | ✅ Oui            | Équivaut à un domaine public volontaire. |
-| **Données**        | ODbL (Open Database License)      | ✅ Oui       | ✅ Oui            | Copyleft pour bases de données (ex : OpenStreetMap). |
-|                    | Open Data Commons Attribution (ODC-BY) | ✅ Oui   | ✅ Oui            | Similaire à CC BY mais orienté données. |
-| **Art/Création**   | CC BY-NC                          | ❌ Non       | ❌ Non            | Interdit l’usage commercial, pas libre ni open source. |
-|                    | CC BY-ND                          | ❌ Non       | ❌ Non            | Interdit les modifications, pas libre ni open source. |
-| **Mixte**          | EPL (Eclipse Public License)      | ✅ Oui       | ✅ Oui            | Copyleft faible, souvent utilisé pour projets Eclipse. |
-|                    | RPL (Reciprocal Public License)   | ❌ Non       | ✅ Oui            | Trop de restrictions (usage interne limité). |
+| Domaine            | Licence                           | Libre (FSF) | Open Source (OSI) | Fair-code | Remarques principales |
+|--------------------|-----------------------------------|-------------|---------------------|-----------|-----------------------|
+| **Code logiciel** | GPLv3 (GNU General Public License)| ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft fort, oblige à redistribuer sous GPL. |
+|                    | LGPL (Lesser GPL)                 | ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft faible, tolère l’usage dans du code propriétaire. |
+|                    | AGPL (Affero GPL)                 | ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft adapté aux logiciels SaaS. |
+|                    | MIT                               | ✅ Oui      | ✅ Oui              | ❌ Non    | Très permissive, très populaire. |
+|                    | Apache 2.0                        | ✅ Oui      | ✅ Oui              | ❌ Non    | Permissive, protège contre brevets. |
+|                    | BSD (2-clause, 3-clause)          | ✅ Oui      | ✅ Oui              | ❌ Non    | Permissives, proches du MIT. |
+|                    | Mozilla Public License (MPL 2.0)  | ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft faible, très utilisé (Firefox). |
+|                    | NOSA 1.3 (NASA)                   | ❌ Non      | ✅ Oui              | ❌ Non    | Trop de restrictions (pas libre pour la FSF). |
+|                    | Sybase Open Watcom                | ❌ Non      | ✅ Oui              | ❌ Non    | Oblige à publier les modifs même en interne. |
+|                    | Fair-Code License (FCL)           | ❌ Non      | ❌ Non              | ✅ Oui    | Code ouvert mais usage commercial restreint. |
+|                    | Business Source License (BSL)     | ❌ Non      | ❌ Non              | ✅ Oui    | Code source visible, restrictions commerciales. |
+|                    | Server Side Public License (SSPL) | ❌ Non      | ❌ Non              | ✅ Oui    | Code ouvert, restrictions pour SaaS. |
+|                    | Elastic License 2.0               | ❌ Non      | ❌ Non              | ✅ Oui    | Licence source available pour ElasticSearch/Kibana. |
+|                    | Redis Source Available License    | ❌ Non      | ❌ Non              | ✅ Oui    | Restrictions commerciales sur modules Redis. |
+| **Documentation**  | GNU FDL (Free Documentation Lic.) | ✅ Oui      | ✅ Oui              | ❌ Non    | Utilisé pour Wikipédia avant migration en CC BY-SA. |
+|                    | CC BY                             | ✅ Oui      | ✅ Oui              | ❌ Non    | Attribution obligatoire, permissive. |
+|                    | CC BY-SA                          | ✅ Oui      | ✅ Oui              | ❌ Non    | Partage dans les mêmes conditions, proche d’un copyleft. |
+|                    | CC0                               | ✅ Oui      | ✅ Oui              | ❌ Non    | Équivaut à un domaine public volontaire. |
+| **Données**        | ODbL (Open Database License)      | ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft pour bases de données (ex : OpenStreetMap). |
+|                    | Open Data Commons Attribution (ODC-BY) | ✅ Oui | ✅ Oui              | ❌ Non    | Similaire à CC BY mais orienté données. |
+| **Art/Création**   | CC BY-NC                          | ❌ Non      | ❌ Non              | ❌ Non    | Interdit l’usage commercial, pas libre ni open source. |
+|                    | CC BY-ND                          | ❌ Non      | ❌ Non              | ❌ Non    | Interdit les modifications, pas libre ni open source. |
+| **Mixte**          | EPL (Eclipse Public License)      | ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft faible, souvent utilisé pour projets Eclipse. |
+|                    | RPL (Reciprocal Public License)   | ❌ Non      | ✅ Oui              | ❌ Non    | Trop de restrictions (usage interne limité). |
 
 
 ## Comment ajouter une licence à son code ?
@@ -165,10 +208,15 @@ Exemple : MIT, BSD, Apache 2.0
 
 Tu peux intégrer du code dans un projet propriétaire sans obligation de redistribuer sous la même licence.
 
+
 ## Résumé Licences
 
 Les licences open source encadrent l’usage, la modification et la redistribution du code.
+
 Elles vont des licences permissives (MIT, Apache) favorisant la diffusion, aux licences copyleft (GPL) qui protègent les libertés en imposant le partage du code dérivé.
+
 Leur choix impacte la compatibilité avec d’autres projets et l’adoption par la communauté ou les entreprises.
+
 Elles offrent des bénéfices : transparence, collaboration, réduction des coûts et pérennité du projet.
+
 Bien choisie, une licence peut être un levier de diffusion et de confiance pour ton logiciel.
