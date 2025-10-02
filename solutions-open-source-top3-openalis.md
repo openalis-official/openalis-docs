@@ -32,14 +32,14 @@ Voici notre top 3 des solutions Open Source basées sur :
 
 ## Pad collaboratif
 
-1. [HedgeDoc](https://hedgedoc.org/)
+1. [HedgeDoc](https://hedgedoc.org/) *orienté markdown*
 2. [EtherPad](https://etherpad.org/)
 3. [Codimd](https://github.com/hackmdio/codimd)
 
 ## Visio
 
 1. [Jitsi](https://jitsi.org/jitsi-meet/)
-2. [BigBlueButton](https://bigbluebutton.org/)
+2. [BigBlueButton](https://bigbluebutton.org/) *orienté classroom*
 3. [OpenMeetings](https://openmeetings.apache.org/)
 
 ## Wiki
@@ -127,9 +127,15 @@ Voici notre top 3 des solutions Open Source basées sur :
 ## Chat
 
 1. [Matrix](https://matrix.org/)
+  * [FluffyChat](https://fluffychat.im/)
   * [Element](https://element.io/)
 2. [Mattermost](https://mattermost.com/)
 3. [Zulip](https://zulip.com/)
+
+*Bonus :*
+
+* [Jami](https://jami.net/fr/)
+* [Rocketchat](https://fr.rocket.chat/) *Limite à 25 utilisateurs en 2025 en mode Open*
 
 ## IA (moteur)
 
@@ -338,6 +344,12 @@ Voici notre top 3 des solutions Open Source basées sur :
 1. [Diaspora](https://diasporafoundation.org/)
 2. [Open Source Social Network](https://www.opensource-socialnetwork.org/)
 3. [Elgg](https://elgg.org/)
+
+## Authentification
+
+1. [OpenLDAP](https://www.openldap.org/)
+2. [Keycloak](https://www.keycloak.org/)
+3. [GoAuthentik](https://goauthentik.io/)
 
 ## Vers l'infini et au-delà !
 
