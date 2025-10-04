@@ -22,7 +22,21 @@ Voici notre top 3 des solutions Open Source basées sur :
 
 1. [Nextcloud](https://nextcloud.com/fr/)
 2. [sync-in](https://sync-in.com/fr/)
-3. [Samba](samba.org)
+3. [Samba](https://www.samba.org/)
+
+*Bonus :* 
+
+* [FilePizza](https://github.com/kern/filepizza) *Licence proche de l'Open*
+
+## Synchronisation de fichiers
+
+1. [FreeFileSync](https://freefilesync.org/)
+2. [Agent Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/desktop/usage.html)
+3. [Syncthing](https://syncthing.net/)
+
+*Incontournable :*
+
+* [rsync](https://linux.die.net/man/1/rsync)
 
 ## Edition collaborative
 
@@ -87,6 +101,10 @@ Voici notre top 3 des solutions Open Source basées sur :
 1. [Dolibarr](https://www.dolibarr.org/)
 2. [ERPNext](https://frappe.io/erpnext)
 3. [Odoo](https://www.odoo.com/fr_FR)
+
+*Bonus :*
+
+* [Manager.io](https://www.manager.io/) *freemium*
 
 ## CRM
 
