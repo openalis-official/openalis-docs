@@ -127,8 +127,12 @@ Voici notre top 3 des solutions Open Source basées sur :
 ## Virtualisation (type 1)
 
 1. [Proxmox](https://proxmox.com/en/)
-2. [KVM](https://linux-kvm.org/page/Main_Page)
+2. [XCP-NG](https://xcp-ng.org/)
 3. [oVirt](https://www.ovirt.org/)
+
+*Bonus :*
+
+* [KVM](https://linux-kvm.org/page/Main_Page)
 
 ## Virtualisation (type 2)
 
