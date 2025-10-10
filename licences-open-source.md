@@ -23,7 +23,7 @@ Ce document a pour objectif de donner les clés à celles et ceux qui souhaitent
 ## C'est quoi l'Open Source ?
 
 L'Open Source est une méthode de développement où le code ("nommé les sources") est partagé 
-dans une optique de transparance et d'innovation collective.
+dans une optique de transparence et d'innovation collective.
 
 Ce partage est cadré selon les modalités de la licence choisie pour protéger l'oeuvre ainsi que les droits de l'éditeur et de l'utilisateur.
 
@@ -33,102 +33,111 @@ Des organisations existent comme l'OSI et la FSF pour définir et publier ces li
 
 ### Avantages (utilisateur)
 
-* Transparence :
+*Pour les versions communautaires :*
+
+* **Transparence** :
   - Le code peut être audité en permanence et par tout le monde
-  - Cela permet notamment de détecter répidement les failles et les corriger
+  - Cela permet notamment de détecter rapidement les failles et les corriger
   - Favorise une relation de confiance
 
-* Maîtrise :
+* **Maîtrise** :
   - Permet d'adapter le logiciel à son contexte (si on en a la compétence)
   - Permet d'intégrer le logiciel sans restriction
 
-* Économies :
-  - Vous permet de tester le logiciel rapidement (sans demande de démonstration ou de licence d'éssai)
+* **Économies** :
+  - Vous permet de tester le logiciel rapidement (sans demande de démonstration ou de licence d'essai)
   - Permet de ne pas subir l'inflation du coût de licence propriétaire
 
-* Maintenabilité :
+* **Maintenabilité** :
   - permet à n'importe qui de contribuer
-  - possibiltié de faire appel à d'autres entreprises pour maintenir la solution
+  - possibilité de faire appel à d'autres entreprises pour maintenir la solution
 
 ### Avantages (éditeur)
 
-* Contribution Communautaire :
+* **Contribution Communautaire** :
   - Lorsqu'on arrive à fédérer une communauté, il est possible de récupérer leurs contributions
 
-* Diffusion massive :
+* **Diffusion massive** :
   - L'accès étant facilité, le produit peut se retrouver rapidement utilisé dans beaucoup de contextes
 
-* Valeurs fortes :
+* **Valeurs fortes** :
   - Défendre l'accessibilité et le partage sont des messages forts envoyés à vos utilisateurs
 
 ### Inconvénients (utilisateur)
 
-* Selon le projet et le business model de l'éditeur, la version communautaire du logiciel peut être déléssée (sans support)
+* **Support faible ou manquant** :
+  - Selon le projet et le "business model" de l'éditeur, la version communautaire du logiciel peut être délaissée (sans support)
 
-* Les compétences nécessaires à la maintenance du logiciel peuvent être conséquent
+* **Expertise** :
+  - Les compétences nécessaires à la maintenance du logiciel peuvent demander une certaine expertise
 
 ### Inconvénients (éditeur)
 
-* Risques de fork (minimes) si l'on change de licence ou de business model ou même d'orientation produit.
+* **Fork :**
+  - Risques de fork, souvent lorsque l'on change de licence ou de "business model" ou même d'orientation produit.
   La communauté peut être tentée de créer un clone du projet et le faire vivre de son côté.
 
-* Le code étant auditable par tous, une certaine rigueur de développement est nécessaire
+* Le code étant lisible par tous, une certaine rigueur de développement est nécessaire
 
 
 ## Modèles économiques de L'Open
 
 Comment vivre de l'Open Source si tout le monde peut copier mon code et l'utiliser ?
 
-Il existe plusieurs manières de parvenir à générer du chiffre d'affaire avec un logiciel Open.
+Il existe plusieurs manières de parvenir à générer du chiffre d'affaires avec un logiciel Open.
 
 Premièrement chaque entreprise est libre de définir son business modèle et en voici quelques axes communs aux éditeurs du logiciel libre :
 
-* Offres SaaS (abonnements au service en ligne) 
-* Offres de services (intégration des outils dans le SI du Client)
-* Formations
-* Offres de conseil et consulting (expertise dans un domaine)
-* Création d'une communauté (récupération des contributions externes)
-* Offre de support logiciel
-* Dons
-* Choix d'un modèle dérivé : Open Core, Double licences ou encore Fair-code.
+* **SaaS** (abonnements au service en ligne) 
+* **Services** (intégration des outils dans le SI du Client)
+* **Formations**
+* **Conseil et consulting** (expertise dans un domaine)
+* **Création d'une communauté** (récupération des contributions externes)
+* **Support logiciel**
+* **Dons**
+* **Modèle dérivé** : Open Core, Double licences ou encore Fair-code.
 
   - Il s'agit ici de publier son code avec une partie communautaire et une partie propriétaire
   - Ceci permettant de se rémunérer sur la licence propriétaire tout en bénéficiant des contributions externes sur la partie Open
   - Permet de continuer de partager sa solution gratuitement
   - En général, la version communautaire est plus limitée en fonctionnalité pour attirer le client vers le choix du propriétaire
 
+* **Partenariats**
+
 ## Différentes variantes du modèle Open-source
 
-* Open Source :
+* **Open Source** :
   - Axé sur le partage du code à tous
-* Libre :
+* **Libre** :
   - Axé sur l'absence de contrainte pour les utilisateurs
-* Open Core :
+* **Open Core** :
   - Axé sur un coeur Open Source et des fonctionnalités propriétaires
-* Dual Licensing :
+* **Dual Licensing** :
   - Axé sur deux versions différentes du logiciel (une open et une propriétaire)
-* Freemium Open Source :
-  - Axé sur la modularité, la base est Open mais les modules peuvent être propriétaire
-* Alternatives anti-cloud (SSPL & BSL) :
+* **Freemium Open Source** :
+  - Axé sur la modularité, la base est Open mais les modules peuvent être propriétaires
+* **Alternatives anti-cloud (SSPL & BSL)** :
   - Pour se protéger des fournisseurs de cloud en ajoutant des restrictions sur la partie commerciale
+* **Fair-code** :
+  - Approche qui se veut être un entre deux entre la partie open et propriétaire
 
 ## Les organisations principales
 
 ### OSI - Open Source Initiative
 
-* Organisation créée en 1998
-* Objectif : promouvoir l’open source (libre accès au code, collaboration, adoption par les entreprises)
-* Critères : conformité à la définition de l’open source (Open Source Definition)
-* L’OSI valide certaines licences comme « open source » (GPL, MIT, Apache, etc.)
-* Approche : pragmatique => l’important est que le code soit accessible, modifiable et redistribuable.
+* Organisation créée en **1998**
+* **Objectif** : promouvoir l’open source (libre accès au code, collaboration, adoption par les entreprises)
+* **Critères** : conformité à la définition de l’open source (Open Source Definition)
+* **L’OSI valide** certaines licences comme « open source » (GPL, MIT, Apache, etc.)
+* **Approche** : pragmatique => l’important est que le code soit accessible, modifiable et redistribuable.
 
 ### FSF - Free Software Foundation
 
-* Organisation fondée par Richard Stallman en 1985.
-* Objectif : défendre la philosophie du « logiciel libre » (4 libertés fondamentales : utiliser, étudier, modifier, partager).
-* Critères : conformité à la définition du logiciel libre.
-* La FSF maintient et promeut ses propres licences, en particulier la GPL, la LGPL, l’AGPL et la GFDL.
-* Approche : idéologique/éthique => priorité à la liberté des utilisateurs, même si cela limite certaines utilisations.
+* Organisation fondée par Richard **Stallman en 1985**.
+* **Objectif** : défendre la philosophie du « logiciel libre » (4 libertés fondamentales : utiliser, étudier, modifier, partager).
+* **Critères** : conformité à la définition du logiciel libre.
+* **La FSF maintient et promeut ses propres licences**, en particulier la GPL, la LGPL, l’AGPL et la GFDL.
+* **Approche** : idéologique/éthique => priorité à la liberté des utilisateurs, même si cela limite certaines utilisations.
 
 ## Le Fair-code
 
@@ -179,7 +188,7 @@ C’est une sorte de compromis pour lutter contre l’exploitation gratuite de l
 
 ### Différence entre licences Open Source et Libres
 
-La différence réside dans l'approche. En pratique les deux concepts sont assez similaire.
+La différence réside dans l'approche. En pratique les deux concepts sont assez similaires.
 Les licences Libres sont Open Source en revanche quelques exceptions peuvent être Open mais non libre.
 
 * Libre : approche éthique & philosophie, elle défend les libertés d'usage de l'utilisateur
@@ -236,7 +245,7 @@ Exemple de licence Open mais non Libre : NOSA, APSL, RPL, RSPL, SOWPL...
 
 Pour ajouter une licence à son code, rien de plus simple :
 
-1. Selectionner la licence qui fonctionne le mieux avec la philosophie de son code :
+1. Sélectionner la licence qui fonctionne le mieux avec la philosophie de son code :
   * Permissive ? (MIT, Pache 2.0, BSD...)
   * Copyleft fort ? (GPL, AGPL, ...)
   * Copyleft faible ? (LGPL, MPL, ...)
@@ -264,13 +273,13 @@ Il est aussi important de communiquer avec transparence la licence choisie pour 
 
 Définissez votre de fonctionnement concernant les contributions externes.
 
-Ajoutez un fichier "CONTRIBUTING" à la racide de vos sources pour définirs les modalités de contribution.
+Ajoutez un fichier "CONTRIBUTING" à la racine de vos sources pour définir les modalités de contribution.
 
 ## Comment retirer une licence ?
 
 1. Il n'est pas possible de retirer une licence sur des versions déjà publiées
 2. Il est possible de changer de licence sur les versions futures
-3. Il est possible de supprimer l'accès à son dépôt publique
+3. Il est possible de supprimer l'accès à son dépôt public
 4. Il est également possible de publier son code sous plusieurs licences (double licences)
 
 *Note : il faut avoir 100% des droits sur son code pour exercer ces actions.*
@@ -279,7 +288,7 @@ Et bien entendu communiquer avec transparence (à l'avance) ce type de changemen
 
 ## Point sur les licences "réciproques" ou "contaminantes"
 
-### Qu'est ce qu'une licence dite réciproque ou contaminante ?
+### L'objectif
 
 On parle de licence contaminante lorsqu’une licence impose que tout logiciel dérivé ou tout code combiné avec celui-ci soit distribué sous la même licence.
 
@@ -318,15 +327,15 @@ Tu peux intégrer du code dans un projet propriétaire sans obligation de redist
 
 ## Mettre en place de l'Open Core
 
-Une solution avantageuse si l'on veut protéger sa propriété intelectuelle sur certaines fonctionnalités.
+Une solution avantageuse si l'on veut protéger sa propriété intellectuelle sur certaines fonctionnalités.
 
-On ne montre que la partie communautaire mais on garde caché la partie propriétaire.
+On ne montre que la partie communautaire, mais on garde caché la partie propriétaire.
 
 Exemple de projet : Gitlab
 
 ## Mettre en place une double licence
 
-Peut être la méthode la plus simple en termes de maintenabilité de dépôt si l'on veut avoir un logiciel open pour la communauté et un propriétaire pour les entreprises tout en concervant une certaine transparance.
+Peut-être la méthode la plus simple en termes de maintenabilité de dépôt si l'on veut avoir un logiciel open pour la communauté et un propriétaire pour les entreprises tout en concervant une certaine transparance.
 
 Mais elle inclut quelques contraintes :
 
@@ -353,6 +362,6 @@ Bien choisie, une licence peut être un levier de diffusion et de confiance pour
 
 ## Conseils
 
-Il toujours judicieux de faire appel à un cabinet spécialisé en licence open source / droit des logiciels et Propriété Intellectuelle si vous n'êtes pas sûr de vous.
+Il est toujours judicieux de faire appel à un cabinet spécialisé en licence open source / droit des logiciels et Propriété Intellectuelle si vous n'êtes pas sûr de vous.
 
-N'hésitez pas à vous insprirer de projets existants réputés pour définir votre business model et la mise en place d'une licence.
+Inspirez vous de projets existants réputés pour définir votre business model et la mise en place d'une licence.
