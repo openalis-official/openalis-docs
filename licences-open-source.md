@@ -139,14 +139,12 @@ Premièrement chaque entreprise est libre de définir son business modèle et en
 * **La FSF maintient et promeut ses propres licences**, en particulier la GPL, la LGPL, l’AGPL et la GFDL.
 * **Approche** : idéologique/éthique => priorité à la liberté des utilisateurs, même si cela limite certaines utilisations.
 
-## Le Fair-code
+### Le Fair-code
 
 C'est un mouvement récent qui se positionne entre l'open source et le propriétaire.
-
 Principe : le code est ouvert (lisible, modifiable), mais son usage commercial est restreint.
 
 Gratuit et libre pour un usage personnel, éducatif ou non-commercial.
-
 Mais si une entreprise veut l’utiliser pour en tirer profit, elle doit payer une licence ou souscrire à un contrat commercial.
 
 C’est donc une licence hybride : ouverture du code + modèle économique durable pour les créateurs.
@@ -154,11 +152,8 @@ C’est donc une licence hybride : ouverture du code + modèle économique durab
 Exemples de projets fair-code :
 
 Fair-Code License (FCL-1.0.0) : "usage non commercial libre, usage commercial sous conditions".
-
 Graylog, Sentry (avant migration), ou certains projets GitHub qui utilisent des licences dites “source available” avec restriction commerciale.
-
 C’est une sorte de compromis pour lutter contre l’exploitation gratuite de l’open source par les géants du cloud tout en gardant une communauté ouverte
-
 
 ## Choisir sa licence
 
