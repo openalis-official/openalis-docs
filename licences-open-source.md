@@ -11,6 +11,9 @@
 - [Licences libres](https://fr.wikipedia.org/wiki/Licence_libre)
 - [Open Source](https://fr.wikipedia.org/wiki/Open_source)
 - [Fair code](https://faircode.io/)
+- [Fair core](https://fcl.dev/)
+- [Fair source](https://fair.io/)
+- [FSL](https://fsl.software/)
 
 ## Introduction
 
@@ -29,7 +32,7 @@ Ce partage est cadré selon les modalités de la licence choisie pour protéger 
 
 Des organisations existent comme l'OSI et la FSF pour définir et publier ces licences.
 
-## Quels en sont les avantages et les inconvénients du modèle Open ?
+## Quels sont les avantages et les inconvénients du modèle Open ?
 
 ### Avantages (utilisateur)
 
@@ -95,7 +98,7 @@ Premièrement chaque entreprise est libre de définir son business modèle et en
 * **Création d'une communauté** (récupération des contributions externes)
 * **Support logiciel**
 * **Dons**
-* **Modèle dérivé** : Open Core, Double licences ou encore Fair-code.
+* **Modèle dérivé** : Open Core, Double licences ou encore Fair-core.
 
   - Il s'agit ici de publier son code avec une partie communautaire et une partie propriétaire
   - Ceci permettant de se rémunérer sur la licence propriétaire tout en bénéficiant des contributions externes sur la partie Open
@@ -141,19 +144,24 @@ Premièrement chaque entreprise est libre de définir son business modèle et en
 
 ### Le Fair-code
 
-C'est un mouvement récent qui se positionne entre l'open source et le propriétaire.
+C'est **un mouvement récent** alternatif qui se positionne entre l'open source et le propriétaire.
 Principe : le code est ouvert (lisible, modifiable), mais son usage commercial est restreint.
 
 Gratuit et libre pour un usage personnel, éducatif ou non-commercial.
 Mais si une entreprise veut l’utiliser pour en tirer profit, elle doit payer une licence ou souscrire à un contrat commercial.
 
-C’est donc une licence hybride : ouverture du code + modèle économique durable pour les créateurs.
+C’est donc un modèle de licence hybride : ouverture du code + modèle économique durable pour les créateurs.
 
 Exemples de projets fair-code :
 
-Fair-Code License (FCL-1.0.0) : "usage non commercial libre, usage commercial sous conditions".
-Graylog, Sentry (avant migration), ou certains projets GitHub qui utilisent des licences dites “source available” avec restriction commerciale.
-C’est une sorte de compromis pour lutter contre l’exploitation gratuite de l’open source par les géants du cloud tout en gardant une communauté ouverte
+Fair-Core License (FCL-1.0.0) : "usage non commercial libre, usage commercial sous conditions".
+
+Dans ce concept général, on y retrouve :
+
+- Le Fair-Source : Formalise le concept de DOSP (Publication Open Source Différée)
+- Le Fair-core Licence : Un modèle similaire à l'Open Core applicable au Fair-source
+- Le Functional Source Licence : Une licence officielle correspondant au modèle Fair-code
+
 
 ## Choisir sa licence
 
@@ -210,7 +218,7 @@ Exemple de licence Open mais non Libre : NOSA, APSL, RPL, RSPL, SOWPL...
 
 | Domaine            | Licence                           | Libre (FSF) | Open Source (OSI) | Fair-code | Remarques principales |
 |--------------------|-----------------------------------|-------------|---------------------|-----------|-----------------------|
-| **Code logiciel** | GPLv3 (GNU General Public License)| ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft fort, oblige à redistribuer sous GPL. |
+| **Code logiciel**  | GPLv3 (GNU General Public License)| ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft fort, oblige à redistribuer sous GPL. |
 |                    | LGPL (Lesser GPL)                 | ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft faible, tolère l’usage dans du code propriétaire. |
 |                    | AGPL (Affero GPL)                 | ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft adapté aux logiciels SaaS. |
 |                    | MIT                               | ✅ Oui      | ✅ Oui              | ❌ Non    | Très permissive, très populaire. |
@@ -219,7 +227,7 @@ Exemple de licence Open mais non Libre : NOSA, APSL, RPL, RSPL, SOWPL...
 |                    | Mozilla Public License (MPL 2.0)  | ✅ Oui      | ✅ Oui              | ❌ Non    | Copyleft faible, très utilisé (Firefox). |
 |                    | NOSA 1.3 (NASA)                   | ❌ Non      | ✅ Oui              | ❌ Non    | Trop de restrictions (pas libre pour la FSF). |
 |                    | Sybase Open Watcom                | ❌ Non      | ✅ Oui              | ❌ Non    | Oblige à publier les modifs même en interne. |
-|                    | Fair-Code License (FCL)           | ❌ Non      | ❌ Non              | ✅ Oui    | Code ouvert mais usage commercial restreint. |
+|                    | Fair-Core License (FCL)           | ❌ Non      | ❌ Non              | ✅ Oui    | Code ouvert mais usage commercial restreint. |
 |                    | Business Source License (BSL)     | ❌ Non      | ❌ Non              | ✅ Oui    | Code source visible, restrictions commerciales. |
 |                    | Server Side Public License (SSPL) | ❌ Non      | ❌ Non              | ✅ Oui    | Code ouvert, restrictions pour SaaS. |
 |                    | Elastic License 2.0               | ❌ Non      | ❌ Non              | ✅ Oui    | Licence source available pour ElasticSearch/Kibana. |
@@ -359,4 +367,4 @@ Bien choisie, une licence peut être un levier de diffusion et de confiance pour
 
 Il est toujours judicieux de faire appel à un cabinet spécialisé en licence open source / droit des logiciels et Propriété Intellectuelle si vous n'êtes pas sûr de vous.
 
-Inspirez vous de projets existants réputés pour définir votre business model et la mise en place d'une licence.
+Inspirez-vous de projets existants réputés pour définir votre business model et la mise en place d'une licence.

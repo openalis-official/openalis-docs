@@ -239,7 +239,7 @@ Voici notre top 3 des solutions Open Source basées sur :
 1. [Ansible](https://docs.ansible.com/)
   * [Semaphoreui](https://semaphoreui.com/)
 2. [Saltstack](https://saltproject.io/)
-3. [WAPT](https://www.tranquil.it/wapt-enterprise/) *non open mais philosophie proche de l'open*
+3. [WAPT](https://www.tranquil.it/wapt-enterprise/)
 
 ## Supervision
 
