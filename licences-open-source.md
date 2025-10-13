@@ -208,7 +208,7 @@ Exemple de licence Open mais non Libre : NOSA, APSL, RPL, RSPL, SOWPL...
 | **Usage commercial**     | Oui, totalement libre.      | Oui, totalement libre.    | Non libre : usage commercial **soumis à conditions** (contrat, licence payante). |
 | **Accès au code**        | Oui, obligatoire.           | Oui, obligatoire.         | Oui, obligatoire, mais redistribution limitée. |
 | **Redistribution**       | Oui, parfois avec obligation de copyleft (GPL). | Oui, sans restriction.    | Possible mais **restreinte** (pas pour SaaS ou services commerciaux sans accord). |
-| **Exemples de licences** | GPL, AGPL, LGPL, MPL.       | MIT, Apache 2.0, BSD, EPL.| FCL (Fair-Code License), BSL (Business Source License), SSPL (MongoDB), Elastic License 2.0, Redis Source Available License. |
+| **Exemples de licences** | GPL, AGPL, LGPL, MPL.       | MIT, Apache 2.0, BSD, EPL.| FCL (Fair-Core License), BSL (Business Source License), SSPL (MongoDB), Elastic License 2.0, Redis Source Available License. |
 | **Exemples de projets**  | Linux, WordPress, LibreOffice, GIMP. | Kubernetes, React, PostgreSQL, Eclipse. | MongoDB (SSPL), ElasticSearch (Elastic License 2.0), Redis modules (RSAL), Sentry (BSL), Graylog. |
 | **Forces**               | Garantit les libertés fondamentales. | Favorise l’innovation et l’adoption massive. | Protège les créateurs face aux géants du cloud. |
 | **Limites**              | Perçu comme trop radical pour certains usages commerciaux. | Permet la captation par les Big Tech sans retour aux auteurs. | Pas reconnu comme open source par l’OSI → souvent critiqué comme “faux libre”. |
