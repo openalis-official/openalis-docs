@@ -185,6 +185,10 @@ Voici notre top 3 des solutions Open Source basées sur :
 2. [Falcon](https://falcons.ai/)
 3. [Mistral](https://mistral.ai/)
 
+*Bonus :*
+
+* [Alphaedge](https://alphaedge-ai.com/)
+
 ## Backup
 
 1. [BorgBackup](https://www.borgbackup.org/)
