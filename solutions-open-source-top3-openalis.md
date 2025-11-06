@@ -18,6 +18,20 @@ Voici notre top 3 des solutions Open Source basées sur :
 - https://www.francenum.gouv.fr
 - https://distrosea.com/fr/
 
+## Espaces numériques de travail alternatif
+
+*Pas forcément tous Open, mais axé sur la sécurité et la souveraineté EU/FR :*
+
+1. [WIMI](https://www.wimi-teamwork.com/fr/)
+2. [OpenDesk](https://www.opendesk.eu/en/)
+3. [Proton](https://proton.me/fr)
+
+*Bonus :*
+
+4. [Twake](https://twake.app/)
+5. [Exo](https://www.exoplatform.com/fr/)
+6. [Infomaniak](https://www.infomaniak.com/fr)
+
 ## Partage de fichiers
 
 1. [Nextcloud](https://nextcloud.com/fr/)
@@ -372,6 +386,18 @@ Voici notre top 3 des solutions Open Source basées sur :
 1. [OpenLDAP](https://www.openldap.org/)
 2. [Keycloak](https://www.keycloak.org/)
 3. [GoAuthentik](https://goauthentik.io/)
+
+## Hébergeurs FR
+
+1. [OVH](https://www.ovhcloud.com/fr/)
+2. [Scaleway](https://www.scaleway.com/fr/)
+3. [o2switch](https://www.o2switch.fr/notre-histoire/)
+
+## Datacenter FR
+
+1. [ETIX](https://www.etixeverywhere.com/)
+2. [CastleIT](https://www.castle-it.fr/)
+3. [Blue](https://www.bt-blue.com/datacenter/)
 
 ## Vers l'infini et au-delà !
 
